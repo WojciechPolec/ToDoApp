@@ -12,4 +12,4 @@ Create your own to-do list!
 
 ## Demo
 
-Project Link: [https://www.wojciechpolec.github.io/ToDoApp/](https://www.wojciechpolec.github.io/ToDoApp/)
+Project Link: [https://wojciechpolec.github.io/ToDoApp/](https://wojciechpolec.github.io/ToDoApp/)
